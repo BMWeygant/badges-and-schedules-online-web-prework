@@ -4,5 +4,5 @@ end
 def batch_badge_creator(array)
   array = attendees
 array.pop
-puts "Hello, my name is #{name}"
+"Hello, my name is #{name}"
 end
