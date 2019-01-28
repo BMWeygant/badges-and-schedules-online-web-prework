@@ -6,5 +6,3 @@ attendees.map ={ |attendee|
 "Hello, my name is #{attendee}".}
 end
 end
-"Hello, my name is #{name}"
-end
