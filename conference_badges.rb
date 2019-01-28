@@ -14,5 +14,6 @@ attendees.each_with_index.map { |attendee, index|
 end
 
 def printer(attendees)
-
+batch_badge_creator
+assign_rooms
 end
