@@ -3,5 +3,6 @@ def badge_maker(name)
 end
 def batch_badge_creator(array)
   array = attendees
-array.unshift("Hello, my name is #{name}")
+array.pop
+puts "Hello, my name is #{name}"
 end
